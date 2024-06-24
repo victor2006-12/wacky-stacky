@@ -1,0 +1,47 @@
+/* resources/css/app.css */
+
+/* Basis instellingen */
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #f8fafc;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigatiebalk */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Main content */
+main.py-4 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #f8fafc;
+    padding: 10px 0;
+    text-align: center;
+    border-top: 1px solid #e7e7e7;
+    margin-top: 20px;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #3490dc;
+    border-color: #3490dc;
+}
+
+.btn-primary:hover {
+    background-color: #2779bd;
+    border-color: #2779bd;
+}
+
+/* Alerts */
+.alert-success {
+    background-color: #dff0d8;
+    border-color: #d0e9c6;
+    color: #3c763d;
+}
